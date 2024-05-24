@@ -637,4 +637,22 @@ div.imgserv {
     border-radius: 15px;
 }
 
+
+.container01 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.container02 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#formulario {
+   max-width: 330px;
+}
 }
