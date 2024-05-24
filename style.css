@@ -305,6 +305,82 @@ div.imgserv {
     background-position: center;
     background-size: cover;
 }
+
+.container01 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container02 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.quem {
+    display: inline-block;
+    align-items: center;
+    margin: 40px;
+    box-shadow: 0px 0px 2px black;
+}
+
+.text-were {
+    text-align: center;
+    padding: 10px;
+}
+
+.text-were h3 {
+    font-size: 24px;
+    font-weight: bolder;
+    color: black;
+}
+
+.text-were h4 {
+    font-size: 20px;
+}
+
+.text-were p {
+    font-size: 20px;
+    font-weight: 700;
+    padding-bottom: 6px;
+}
+
+.imgS {
+    background-color: black;
+    background-size: cover;
+    height: 300px;
+    width: 250px;
+    border: 16px solid white;
+}
+
+#quem01 {
+    background-image: url(imgbruna/eduarda.jpeg);
+    background-position: center;
+}
+
+#quem02 {
+    background-image: url(imgbruna/raquel.jpeg);
+    background-position: center;
+}
+
+#quem03 {
+    background-image: url(imgbruna/rafael.jpeg);
+}
+
+#quem04 {
+    background-image: url(imgbruna/bruna.jpeg);
+}
+
+#quem05 {
+    background-image: url(imgbruna/isabella.jpeg);
+}
+
+#quem06 {
+    background-image: url(imgbruna/eduardo.jpeg);
+}
+
+
 /*Fim sobre*/
 
 /*Inicio portifólio*/
